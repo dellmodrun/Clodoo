@@ -146,7 +146,8 @@ header {
 }
 
 .headingtop {
-    width: 40%;
+    width: min(220px, 40%);
+    height: auto;
     display: block;
     margin: 28px auto 40px;
     animation: headingFlicker 1.4s infinite;
@@ -650,8 +651,8 @@ footer>p {
     border: 0.1vw solid #0a2b1f;
 }
 
-/* ---- Woodoo data dashboard + realtime feed ---- */
-.woodoo-data {
+/* ---- Clodoo data dashboard + realtime feed ---- */
+.clodoo-data {
     align-items: stretch;
     gap: 0.6vw;
 }
@@ -1150,6 +1151,7 @@ footer>p {
 
 .homelogo {
     width: 90px;
+    height: auto;
     max-width: 40%;
     display: block;
     margin: 0 auto;
