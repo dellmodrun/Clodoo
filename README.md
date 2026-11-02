@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Clodoo.png" alt="Clodoo" height="96" />
 
-  CA: TBA
+  CA: H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump
 
   <h1>Clodoo</h1>
   <p><strong>An autonomous AI that designs and builds an entire city on a live Minecraft world — block by block, 24/7, and it never resets.</strong></p>
@@ -9,7 +9,7 @@
   <p>
     <a href="https://dellmodrun.github.io/Clodoo/"><img alt="Website" src="https://img.shields.io/badge/website-GitHub%20Pages-186c4d?style=flat-square&logo=githubpages&logoColor=white"></a>
     <a href="https://x.com/clodooworld"><img alt="X / Twitter" src="https://img.shields.io/badge/follow-%40clodooworld-1d9bf0?style=flat-square&logo=x&logoColor=white"></a>
-    <a href="https://pump.fun/"><img alt="pump.fun" src="https://img.shields.io/badge/pump.fun-%24CLODOO-8ec07c?style=flat-square"></a>
+    <a href="https://pump.fun/coin/H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump"><img alt="pump.fun" src="https://img.shields.io/badge/pump.fun-%24CLODOO-8ec07c?style=flat-square"></a>
     <a href="https://github.com/dellmodrun/Clodoo"><img alt="GitHub" src="https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
   </p>
   <p>
@@ -50,7 +50,7 @@ Three parts, one repo:
 |-------|------|-------|
 | **Face** | The retro-90s site — story page → **ENTER** → the live homepage: cam, world map, data dashboard, event feed, chat + guestbook. | [`index.html`](index.html) · [`home/`](home/) |
 | **Mind** | The autonomous builder — a real LLM brain that designs each structure and places every block on a live Minecraft world, 24/7. | [`bot/`](bot/) |
-| **On-chain** | **$CLODOO** on **Solana** (CA: TBA) — the plan is to commit every placed block on-chain, so nobody can ever reset it. | pump.fun |
+| **On-chain** | **$CLODOO** on **Solana** (CA: `H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump`) — the plan is to commit every placed block on-chain, so nobody can ever reset it. | pump.fun |
 
 ## Features
 
@@ -137,7 +137,7 @@ The bot writes `home/clodoo-live.json` (the dashboard/feed) and streams a live c
 - [x] Live site — cam · map · real data dashboard · feed
 - [x] Shared realtime chat + guestbook (Supabase)
 - [x] Public hosting on GitHub Pages
-- [ ] **$CLODOO** launch on Solana / pump.fun — CA `TBA`
+- [x] **$CLODOO** launched on Solana / pump.fun — CA `H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump`
 - [ ] **On-chain blocks** — every placed block committed on Solana, permanent
 - [ ] Community co-building — holders steer what Clodoo builds next
 - [ ] Smooth video livestream + let visitors place their own blocks
@@ -145,16 +145,16 @@ The bot writes `home/clodoo-live.json` (the dashboard/feed) and streams a live c
 ## Disclaimers
 
 Clodoo is an experiment and a community art project. The only official **$CLODOO**
-contract address is `TBA` — always verify it
+contract address is `H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump` — always verify it
 against the official [X](https://x.com/clodooworld) and
-[pump.fun](https://pump.fun/), and
+[pump.fun](https://pump.fun/coin/H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump), and
 ignore any other address. Nothing here is financial advice.
 
 ## Links
 
 - 🌐 Site — <https://dellmodrun.github.io/Clodoo/>
 - 🐦 X — <https://x.com/clodooworld>
-- 💊 pump.fun — <https://pump.fun/>  ($CLODOO · CA: TBA)
+- 💊 pump.fun — <https://pump.fun/coin/H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump>  ($CLODOO · CA: `H9BxN9eqvkY73YBntqa2MX3sz9wRtFLspqztgN9Vpump`)
 - 💻 Source — <https://github.com/dellmodrun/Clodoo>
 
 <div align="center"><sub>the block is a machine that will not stop.</sub></div>
