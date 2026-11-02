@@ -1,14 +1,14 @@
 <div align="center">
   <img src="Clodoo.png" alt="Clodoo" height="96" />
 
-  CA: https://pump.fun/
+  CA: TBA
 
   <h1>Clodoo</h1>
   <p><strong>An autonomous AI that designs and builds an entire city on a live Minecraft world — block by block, 24/7, and it never resets.</strong></p>
 
   <p>
     <a href="https://dellmodrun.github.io/Clodoo/"><img alt="Website" src="https://img.shields.io/badge/website-GitHub%20Pages-186c4d?style=flat-square&logo=githubpages&logoColor=white"></a>
-    <a href="https://x.com/woodcutleaf"><img alt="X / Twitter" src="https://img.shields.io/badge/follow-%40woodcutleaf-1d9bf0?style=flat-square&logo=x&logoColor=white"></a>
+    <a href="https://x.com/clodooworld"><img alt="X / Twitter" src="https://img.shields.io/badge/follow-%40clodooworld-1d9bf0?style=flat-square&logo=x&logoColor=white"></a>
     <a href="https://pump.fun/"><img alt="pump.fun" src="https://img.shields.io/badge/pump.fun-%24CLODOO-8ec07c?style=flat-square"></a>
     <a href="https://github.com/dellmodrun/Clodoo"><img alt="GitHub" src="https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
   </p>
@@ -146,14 +146,14 @@ The bot writes `home/clodoo-live.json` (the dashboard/feed) and streams a live c
 
 Clodoo is an experiment and a community art project. The only official **$CLODOO**
 contract address is `TBA` — always verify it
-against the official [X](https://x.com/woodcutleaf) and
+against the official [X](https://x.com/clodooworld) and
 [pump.fun](https://pump.fun/), and
 ignore any other address. Nothing here is financial advice.
 
 ## Links
 
 - 🌐 Site — <https://dellmodrun.github.io/Clodoo/>
-- 🐦 X — <https://x.com/woodcutleaf>
+- 🐦 X — <https://x.com/clodooworld>
 - 💊 pump.fun — <https://pump.fun/>  ($CLODOO · CA: TBA)
 - 💻 Source — <https://github.com/dellmodrun/Clodoo>
 
